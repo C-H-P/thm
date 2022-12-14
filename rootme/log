@@ -1,0 +1,9 @@
+File upload bypass: not contain php
+Use the extension phtml for php file execution.
+Can enumerate the extention from burpsuite.
+
+User flag at home directory
+https://www.infosecarticles.com/rootme-tryhackme-walkthrough/
+
+find / -user root -perm /4000
+
